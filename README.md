@@ -3,7 +3,12 @@ Finding the all possible combinations in a list.
 
 Example:
 
-Main List : [1, 2, 3, 4, 5]
+Input List : [1, 2, 3, 4, 5]
+
+n = number of elements [ Here it is 5 ]
+k = length of subsequence [ Here it is 3 ]
+
+Then,
 
 All Possible Combinations are :
 
