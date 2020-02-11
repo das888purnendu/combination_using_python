@@ -1,7 +1,7 @@
-#a_list = list(map(int,input().split())) # Space separated numbers -> 1 2 3 4 5
+#a_list = list(map(int,input().split()))   #Space separated numbers -> 1 2 3 4 5
 
 a_list = [1,2,3,4,5] # Given list
-n = len(a_list)  # N items of the list
+n = len(a_list)  # items of the list
 k = 3        # lenght of subsequence
 print("Main List :",a_list)
 print("All Possible Combinations are :")
